@@ -1,0 +1,10 @@
+/home/rfmartin/iVernia/iVerniaServer/EasyModbus/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/rfmartin/iVernia/iVerniaServer/EasyModbus/bin/Debug/EasyModbus.dll.mdb
+/home/rfmartin/iVernia/iVerniaServer/EasyModbus/bin/Debug/EasyModbus.dll
+/home/rfmartin/iVernia/iVerniaServer/EasyModbus/obj/Debug/EasyModbus.dll
+/home/rfmartin/iVernia/iVerniaServer/EasyModbus/obj/Debug/EasyModbus.dll.mdb
+/home/pi/iVernia/iVerniaServer/EasyModbus/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pi/iVernia/iVerniaServer/EasyModbus/bin/Debug/EasyModbus.dll.mdb
+/home/pi/iVernia/iVerniaServer/EasyModbus/bin/Debug/EasyModbus.dll
+/home/pi/iVernia/iVerniaServer/EasyModbus/obj/Debug/EasyModbus.dll
+/home/pi/iVernia/iVerniaServer/EasyModbus/obj/Debug/EasyModbus.dll.mdb

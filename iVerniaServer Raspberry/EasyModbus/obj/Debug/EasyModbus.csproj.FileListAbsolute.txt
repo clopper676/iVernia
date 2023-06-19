@@ -1,0 +1,4 @@
+C:\Ftp\Grabaciones\iVerniaServer\iVerniaServer\EasyModbus\bin\Debug\EasyModbus.dll
+C:\Ftp\Grabaciones\iVerniaServer\iVerniaServer\EasyModbus\bin\Debug\EasyModbus.pdb
+C:\Ftp\Grabaciones\iVerniaServer\iVerniaServer\EasyModbus\obj\Debug\EasyModbus.dll
+C:\Ftp\Grabaciones\iVerniaServer\iVerniaServer\EasyModbus\obj\Debug\EasyModbus.pdb

@@ -1,0 +1,8 @@
+C:\Users\rfmartin\Documents\Projects\iVerniaServer\iVerniaServer\bin\Debug\iVerniaServer.exe
+C:\Users\rfmartin\Documents\Projects\iVerniaServer\iVerniaServer\bin\Debug\iVerniaServer.pdb
+C:\Users\rfmartin\Documents\Projects\iVerniaServer\iVerniaServer\bin\Debug\EasyModbus.dll
+C:\Users\rfmartin\Documents\Projects\iVerniaServer\iVerniaServer\bin\Debug\EasyModbus.pdb
+C:\Users\rfmartin\Documents\Projects\iVerniaServer\iVerniaServer\obj\x86\Debug\iVerniaServer.csprojResolveAssemblyReference.cache
+C:\Users\rfmartin\Documents\Projects\iVerniaServer\iVerniaServer\obj\x86\Debug\iVerniaServer.exe
+C:\Users\rfmartin\Documents\Projects\iVerniaServer\iVerniaServer\obj\x86\Debug\iVerniaServer.pdb
+C:\Ftp\Grabaciones\iVerniaServer\iVerniaServer\iVerniaServer\obj\x86\Debug\iVerniaServer.csprojResolveAssemblyReference.cache

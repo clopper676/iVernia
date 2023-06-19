@@ -1,0 +1,7 @@
+/home/rfmartin/iVernia/iVerniaServer/iVerniaServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/rfmartin/iVernia/iVerniaServer/iVerniaServer/bin/Debug/iVerniaServer.exe.mdb
+/home/rfmartin/iVernia/iVerniaServer/iVerniaServer/bin/Debug/iVerniaServer.exe
+/home/rfmartin/iVernia/iVerniaServer/iVerniaServer/obj/x86/Debug/iVerniaServer.exe
+/home/rfmartin/iVernia/iVerniaServer/iVerniaServer/obj/x86/Debug/iVerniaServer.exe.mdb
+/home/rfmartin/iVernia/iVerniaServer/iVerniaServer/bin/Debug/EasyModbus.dll
+/home/rfmartin/iVernia/iVerniaServer/iVerniaServer/bin/Debug/EasyModbus.dll.mdb

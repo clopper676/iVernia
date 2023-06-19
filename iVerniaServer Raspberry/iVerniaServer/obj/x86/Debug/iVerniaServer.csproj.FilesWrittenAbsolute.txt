@@ -1,0 +1,7 @@
+/home/pi/iVernia/iVerniaServer/iVerniaServer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pi/iVernia/iVerniaServer/iVerniaServer/bin/Debug/iVerniaServer.exe.mdb
+/home/pi/iVernia/iVerniaServer/iVerniaServer/bin/Debug/iVerniaServer.exe
+/home/pi/iVernia/iVerniaServer/iVerniaServer/obj/x86/Debug/iVerniaServer.exe
+/home/pi/iVernia/iVerniaServer/iVerniaServer/obj/x86/Debug/iVerniaServer.exe.mdb
+/home/pi/iVernia/iVerniaServer/iVerniaServer/bin/Debug/EasyModbus.dll
+/home/pi/iVernia/iVerniaServer/iVerniaServer/bin/Debug/EasyModbus.dll.mdb

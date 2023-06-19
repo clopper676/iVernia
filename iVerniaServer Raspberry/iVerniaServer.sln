@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iVerniaServer", "iVerniaServer\iVerniaServer.csproj", "{B02D3063-C115-43D3-8D80-58C611D85FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyModbus", "EasyModbus\EasyModbus.csproj", "{527D13E3-AF35-4E82-8947-6C4AB262D96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527D13E3-AF35-4E82-8947-6C4AB262D96B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{527D13E3-AF35-4E82-8947-6C4AB262D96B}.Debug|x86.Build.0 = Debug|Any CPU
+		{527D13E3-AF35-4E82-8947-6C4AB262D96B}.Release|x86.ActiveCfg = Release|Any CPU
+		{527D13E3-AF35-4E82-8947-6C4AB262D96B}.Release|x86.Build.0 = Release|Any CPU
+		{B02D3063-C115-43D3-8D80-58C611D85FD7}.Debug|x86.ActiveCfg = Debug|x86
+		{B02D3063-C115-43D3-8D80-58C611D85FD7}.Debug|x86.Build.0 = Debug|x86
+		{B02D3063-C115-43D3-8D80-58C611D85FD7}.Release|x86.ActiveCfg = Release|x86
+		{B02D3063-C115-43D3-8D80-58C611D85FD7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
